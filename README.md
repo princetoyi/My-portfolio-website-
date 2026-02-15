@@ -46,7 +46,7 @@ This project demonstrates my ability to build **functional, visually appealing w
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio [here](https://github.com/princetoyi/princetoyi)
+Check out the live version of my portfolio [here](https://github.com/princetoyi/my-portfolio-website-)
 
 ---
 
