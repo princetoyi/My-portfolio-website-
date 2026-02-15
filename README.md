@@ -33,8 +33,15 @@ This project demonstrates my ability to build **functional, visually appealing w
 ---
 
 ## 📂 Project Structure
+- HTML
+  index.html
+- CSS
+  style.css
+- assets
+  images
+    backgroud.png
+- README.md
 
----
 ---
 
 ## 🚀 Live Demo
